@@ -1,54 +1,38 @@
 <h1 align="center">
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />, I'm Dinar Muhammad Akbar
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi 👋, I'm Dinar Muhammad Akbar
 </h1>
-<p align="center">
-  <b>UI/UX Designer • Front-End Developer</b><br/>
-  Crafting digital experiences with passion
-</p>
+<h3 align="center">UI/UX Designer & Front-End Developer | Crafting Digital Experiences with Passion</h3>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nulldynmrr&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/nulldynmrr?label=Followers&style=social" alt="GitHub Followers" />
+</p>
 
 ## 🚀 About Me
-<table>
-  <tr>
-    <td>🎨 UI/UX Designer focused on <b>clean & accessible</b> interfaces</td>
-    <td>💻 Front-End Developer building <b>modern & performant</b> apps</td>
-  </tr>
-  <tr>
-    <td>⚡ Passionate about <b>UX, performance & animation</b></td>
-    <td>🌍 Based in <b>Indonesia</b>, open to global collaboration</td>
-  </tr>
-  <tr>
-    <td colspan="2">🎯 Exploring <b>advanced animations, AI design tools & open-source</b></td>
-  </tr>
-</table>
+- 🎨 **UI/UX Designer** obsessed with clean, accessible, and user-centric designs that make a difference.
+- 💻 **Front-End Developer** building modern, performant web apps with cutting-edge tech.
+- ⚡ Passionate about optimizing performance, enhancing UX, and turning ideas into reality.
+- 🌍 Based in **Indonesia**, always up for global collaborations!
+- 🎯 Currently exploring: Advanced animations, AI-driven design tools, and open-source contributions.
 
----
+## 🧠 Tech Stack & Skills
 
-## 🧠 Tech Stack
-
-### 🎨 Design (1 Column – Fokus)
-<p>
-  <img src="https://skillicons.dev/icons?i=figma" />
+### 🎨 Design Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma" alt="Design Tools" />
 </p>
 
-### 🌐 Front-End (Auto / Panjang)
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+### 🌐 Front-End Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" alt="Front-End Stack" />
 </p>
 
-### 🧩 Programming & Others (3 Grid)
-<table>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=python" /><br/>Python</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=java" /><br/>Java</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" /><br/>Node.js</td>
-  </tr>
-</table>
+### 🧩 Programming & Others
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,nodejs" alt="Programming & Backend" />
+</p>
 
----
-
-## 📊 GitHub Stats (2 Grid)
+### 📊 GitHub Stats
 
 <table>
   <tr>
@@ -61,44 +45,41 @@
   </tr>
 </table>
 
----
+## 🛠 Tools & Workflow
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github" alt="Tools" />
+</p>
 
-## 🛠 Tools (3 Grid)
 
-<table>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=vscode" /><br/>VS Code</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=git" /><br/>Git</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=github" /><br/>GitHub</td>
-  </tr>
-</table>
-
----
-
-## 🤝 Connect (2 Grid)
+### 🤝 Connect
 
 <table>
   <tr>
     <td align="center">
       <a href="https://github.com/nulldynmrr">
-        <img src="https://skillicons.dev/icons?i=github" /><br/>GitHub
+        <img src="https://skillicons.dev/icons?i=github" /><br/>
+        GitHub
       </a>
     </td>
     <td align="center">
       <a href="https://www.linkedin.com/in/dinar-m-akbar">
-        <img src="https://skillicons.dev/icons?i=linkedin" /><br/>LinkedIn
+        <img src="https://skillicons.dev/icons?i=linkedin" /><br/>
+        LinkedIn
       </a>
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="2">
+    <td align="center">
       <a href="mailto:dinarmuhammadakbar04@gmail.com">
-        <img src="https://skillicons.dev/icons?i=gmail" /><br/>Email
+        <img src="https://skillicons.dev/icons?i=gmail" /><br/>
+        Email
       </a>
+    </td>
+    <td align="center">
+      🌟<br/>
+      Contact Me
     </td>
   </tr>
 </table>
 
----
-
-<sub>⭐ Feel free to explore my repositories or reach out!</sub>
+⭐ *Thanks for stopping by! Feel free to star my repos or drop a message. Let's build something amazing together!* 🚀

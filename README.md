@@ -40,25 +40,27 @@
   </tr>
 </table>
 
-## 🛠 Tools & Workflow
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github" alt="Tools" />
-</p>
+<table width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <b>🛠 Tools & Workflow</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=vscode,git,github" />
+    </td>
+    <td align="center" width="50%">
+      <b>🤝 Connect</b><br/><br/>
+      <a href="https://github.com/nulldynmrr">
+        <img src="https://skillicons.dev/icons?i=github" />
+      </a>
+      &nbsp;&nbsp;
+      <a href="https://www.linkedin.com/in/dinar-m-akbar">
+        <img src="https://skillicons.dev/icons?i=linkedin" />
+      </a>
+      &nbsp;&nbsp;
+      <a href="mailto:dinarmuhammadakbar04@gmail.com">
+        <img src="https://skillicons.dev/icons?i=gmail" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-### 🤝 Connect
 
-<p align="center">
-  <a href="https://github.com/nulldynmrr">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/dinar-m-akbar">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:dinarmuhammadakbar04@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
-
-⭐ *Thanks for stopping by! Feel free to star my repos or drop a message. Let's build something amazing together!* 🚀

@@ -3,16 +3,12 @@
 </h1>
 <h3 align="center">UI/UX Designer | Front-End Developer | Crafting Digital Experiences with Passion</h3>
 
----
-
 ## 🚀 About Me
 - 🎨 **UI/UX Designer** obsessed with clean, accessible, and user-centric designs that make a difference.
 - 💻 **Front-End Developer** building modern, performant web apps with cutting-edge tech.
 - ⚡ Passionate about optimizing performance, enhancing UX, and turning ideas into reality.
 - 🌍 Based in **Indonesia** – always up for global collaborations!
 - 🎯 Currently exploring: Advanced animations, AI-driven design tools, and open-source contributions.
-
----
 
 ## 🧠 Tech Stack & Skills
 
@@ -31,8 +27,6 @@
   <img src="https://skillicons.dev/icons?i=python,nodejs" alt="Programming & Backend" />
 </p>
 
----
-
 ## 📊 GitHub Stats
 
 <table align="center">
@@ -46,14 +40,10 @@
   </tr>
 </table>
 
----
-
 ## 🛠 Tools & Workflow
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,git,github" alt="Tools" />
 </p>
-
----
 
 ## 🤝 Let's Connect & Collaborate
 <p align="center">
@@ -67,7 +57,5 @@
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
   </a>
 </p>
-
----
 
 ⭐ *Thanks for stopping by! Feel free to star my repos or drop a message. Let's build something amazing together!* 🚀

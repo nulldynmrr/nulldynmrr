@@ -24,7 +24,7 @@
 
 ### 🧩 Programming & Others
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,nodejs" alt="Programming & Backend" />
+  <img src="https://skillicons.dev/icons?i=python,java,nodejs" alt="Programming & Backend" />
 </p>
 
 ## 📊 GitHub Stats

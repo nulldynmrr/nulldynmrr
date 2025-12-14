@@ -39,13 +39,10 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=nulldynmrr&show_icons=true&theme=tokyonight" />
+      <img src="https://github-readme-stats.vercel.app/api?username=nulldynmrr&show_icons=true&theme=tokyonight&hide_border=true" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=nulldynmrr&theme=tokyonight" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nulldynmrr&layout=compact&theme=tokyonight" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nulldynmrr&layout=compact&theme=tokyonight&hide_border=true" />
     </td>
   </tr>
 </table>

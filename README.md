@@ -3,11 +3,6 @@
 </h1>
 <h3 align="center">UI/UX Designer & Front-End Developer | Crafting Digital Experiences with Passion</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nulldynmrr&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/nulldynmrr?label=Followers&style=social" alt="GitHub Followers" />
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -38,20 +33,15 @@
 
 ---
 
-## 📊 GitHub Stats & Insights
+## 📊 GitHub Stats
 
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=nulldynmrr&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=nulldynmrr&show_icons=true&theme=tokyonight&hide_border=true" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nulldynmrr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=nulldynmrr&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nulldynmrr&layout=compact&theme=tokyonight&hide_border=true" />
     </td>
   </tr>
 </table>
@@ -62,15 +52,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,docker" alt="Tools" />
 </p>
-
----
-
-## 🌟 Featured Projects
-- 🚀 **[Project Name 1](https://github.com/nulldynmrr/project1)**: A sleek React app with Tailwind CSS for modern UI/UX.
-- 🎨 **[Project Name 2](https://github.com/nulldynmrr/project2)**: Figma designs turned into interactive prototypes.
-- 💡 **[Project Name 3](https://github.com/nulldynmrr/project3)**: Python scripts for automation and data visualization.
-
-*(Replace with your actual projects for a personalized touch!)*
 
 ---
 
@@ -89,13 +70,6 @@
     <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
   </a>
 </p>
-
----
-
-## 🎉 Fun Facts
-- ☕ Fueled by coffee and creative ideas.
-- 🌱 Always learning: Currently diving into AI/ML for design.
-- 🎮 When not coding, I'm gaming or sketching new concepts.
 
 ---
 

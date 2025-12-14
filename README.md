@@ -1,7 +1,7 @@
 <h1 align="center">
   Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Dinar Muhammad Akbar
 </h1>
-<h3 align="center">UI/UX Designer & Front-End Developer | Crafting Digital Experiences with Passion</h3>
+<h3 align="center">UI/UX Designer | Front-End Developer | Crafting Digital Experiences with Passion</h3>
 
 ---
 
@@ -18,17 +18,17 @@
 
 ### 🎨 Design Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,xd" alt="Design Tools" />
+  <img src="https://skillicons.dev/icons?i=figma" alt="Design Tools" />
 </p>
 
 ### 🌐 Front-End Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,typescript" alt="Front-End Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" alt="Front-End Stack" />
 </p>
 
 ### 🧩 Programming & Others
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,nodejs,firebase,mongodb" alt="Programming & Backend" />
+  <img src="https://skillicons.dev/icons?i=python,nodejs" alt="Programming & Backend" />
 </p>
 
 ---
@@ -50,7 +50,7 @@
 
 ## 🛠 Tools & Workflow
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,docker" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github" alt="Tools" />
 </p>
 
 ---
@@ -60,14 +60,11 @@
   <a href="https://github.com/nulldynmrr">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/yourlinkedin">
+  <a href="https://www.linkedin.com/in/dinar-m-akbar">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:dinarmuhammadakbar04@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
-  </a>
-  <a href="https://twitter.com/yourtwitter">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
   </a>
 </p>
 

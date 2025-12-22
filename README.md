@@ -40,7 +40,7 @@
   </tr>
 </table>
 
-## 🛠 Tools & Workflow
+## Tools & Workflow
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,git,github" alt="Tools" />

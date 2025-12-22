@@ -7,8 +7,8 @@
 🎨 **UI/UX Designer** obsessed with clean, accessible, and user-centric designs that make a difference.
 💻 **Front-End Developer** building modern, performant web apps with cutting-edge tech.
 ⚡ Passionate about optimizing performance, enhancing UX, and turning ideas into reality.
-🌍 Based in **Indonesia**, always up for global collaborations!
- 🎯 Currently exploring: Advanced animations, AI-driven design tools, and open-source contributions.
+🌍 Based in **Indonesia**, always up for global collaborations.
+🎯 Currently exploring: Advanced animations, AI-driven design tools, and open-source contributions.
 
 ## 🧠 Tech Stack & Skills
 

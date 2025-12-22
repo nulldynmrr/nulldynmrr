@@ -3,31 +3,31 @@
 </h1>
 <h3 align="center">UI/UX Designer & Front-End Developer | Crafting Digital Experiences with Passion</h3>
 
-## 🚀 About Me
+## About Me
 🎨 **UI/UX Designer** obsessed with clean, accessible, and user-centric designs that make a difference.  
 💻 **Front-End Developer** building modern, performant web apps with cutting-edge tech.  
 ⚡ Passionate about optimizing performance, enhancing UX, and turning ideas into reality.  
 🌍 Based in **Indonesia**, always up for global collaborations.  
 🎯 Currently exploring: Advanced animations, AI-driven design tools, and open-source contributions.
 
-## 🧠 Tech Stack & Skills
+## Tech Stack & Skills
 
-### 🎨 Design Tools
+### Design Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma" alt="Design Tools" />
 </p>
 
-### 🌐 Front-End Development
+### Front-End Development
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" alt="Front-End Stack" />
 </p>
 
-### 🧩 Programming & Others
+### Programming & Others
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,nodejs" alt="Programming & Backend" />
 </p>
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <table>
   <tr>

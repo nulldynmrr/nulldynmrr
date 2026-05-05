@@ -27,18 +27,6 @@
   <img src="https://skillicons.dev/icons?i=python,java,nodejs" alt="Programming & Backend" />
 </p>
 
-### GitHub Stats
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=nulldynmrr&show_icons=true&theme=tokyonight&hide_border=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nulldynmrr&layout=compact&theme=tokyonight&hide_border=true" />
-    </td>
-  </tr>
-</table>
 
 ## Tools & Workflow
 
